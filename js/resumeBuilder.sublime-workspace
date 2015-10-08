@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"append"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"fo",
+				"formattedName"
+			],
+			[
+				"f",
+				"funThoughts"
+			],
+			[
+				"fu",
+				"funThoughts"
+			],
+			[
+				"awe",
+				"awesomeThoughts"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"p",
+				"pages"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"per",
+				"permalink"
+			],
+			[
+				"pe",
+				"permalink"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"Page",
+				"page"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"n",
+				"notice"
+			],
+			[
+				"fla",
+				"flash	flash[…]"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"su",
+				"subjects"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"Sub",
+				"Subject"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"ad",
+				"admin_user"
+			],
+			[
+				"secti",
+				"section_edits"
+			],
+			[
+				"i",
+				"integer"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"S",
+				"Section"
+			],
+			[
+				"P",
+				"Page"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"st",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resumeBuilder.js",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "helper.js",
+			"settings":
+			{
+				"buffer_size": 8582,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/praylin/Desktop/frontend-nanodegree-resume-master/js/helper.js",
+		"/home/praylin/Desktop/frontend-nanodegree-resume-master/index.html",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150629222108_create_section_edits.rb",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/list.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/index.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/home/praylin/Sites/simple_cms/app/models/section_edit.rb",
+		"/home/praylin/Sites/simple_cms/config/database.yml",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/new.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/show.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/edit.html.erb",
+		"/home/praylin/Sites/simple_cms/app/models/page.rb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/edit.html.erb",
+		"/home/praylin/Sites/simple_cms/config/routes.rb",
+		"/home/praylin/Sites/simple_cms/app/views/subjects/delete.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/list.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/show.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/new.html.erb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/delete.html.erb",
+		"/home/praylin/Sites/simple_cms/app/controllers/pages_controller.rb",
+		"/home/praylin/Sites/simple_cms/app/views/pages/index.css",
+		"/home/praylin/Sites/simple_cms/app/views/pages/index.html.erb",
+		"/home/praylin/Sites/simple_cms/app/controllers/subjects_controller.rb",
+		"/home/praylin/Sites/simple_cms/app/models/section.rb",
+		"/home/praylin/Sites/simple_cms/app/models/admin_user.rb",
+		"/home/praylin/.cache/.fr-s33sH2/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/home/praylin/.cache/.fr-2waqyW/index.html",
+		"/home/praylin/Desktop/Kanyakulam/kanya.html",
+		"/home/praylin/Desktop/Kanyakulam/index.html",
+		"/home/praylin/Desktop/Kanyakulam/style.css",
+		"/home/praylin/Desktop/Kanyakulam/Untitled Document",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150520225658_do_nothing_yet.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150611225434_fkey_edit3.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150611225730_add_index_e1.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150609185710_fkey.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150609012829_create_sections.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150609012553_create_pages.rb",
+		"/home/praylin/Sites/simple_cms/app/models/user.rb",
+		"/home/praylin/Sites/exercise/config/environments/development.rb",
+		"/home/praylin/Sites/exercise/config/database.yml",
+		"/home/praylin/Sites/exercise/db/schema.rb",
+		"/home/praylin/Sites/exercise/Rakefile",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150608230024_create_subjects.rb",
+		"/home/praylin/Sites/simple_cms/db/schema.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150624222641_create_admin_users_pages_join.rb",
+		"/home/praylin/Sites/simple_cms/config/application.rb",
+		"/home/praylin/Sites/simple_cms/app/models/subject.rb",
+		"/home/praylin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/praylin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/praylin/Sites/exercise/db/migrate/20150604014700_fkeys.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150609185257_create_fkeys.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150611223054_fkey_edit2.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150611220101_fkey_edit1.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150611221017_add_index.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150605213909_index.rb",
+		"/home/praylin/Sites/exercise/config/application.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150604012716_subject1.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150604013933_section1.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150604013654_page1.rb",
+		"/home/praylin/Sites/exercise/app/models/subject1.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150521222216_alter_users.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150527223753_section.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150527223738_page.rb",
+		"/home/praylin/Sites/exercise/db/migrate/20150527223409_subject.rb",
+		"/home/praylin/Sites/simple_cms/db/migrate/20150520230412_create_users.rb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resumeBuilder.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "helper.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "resumeBuilder.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
